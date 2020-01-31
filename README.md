@@ -14,7 +14,7 @@ Este projeto mostra a lista de filmes e séries do site SmartMovies - React.js -
   <li>Faça o clone do projeto.<br/></li>
   <li>Use o comando <strong>npm</strong> install para instar as dependências do projeto.<br/></li>
   <li>Use o comando <strong>npm start</strong> para iniciar o projeto, como a api vai estar rodando na porta 3000, então esse projeto deverá ser rodado na porta 3001.</br></li>
-  <li>Se der erro no $ jquery use o comando <strong>npm install jquery</strong> para instalar</li>
+  <li><strong>SE DER ERRO</strong> no $ jquery use o comando <strong>npm install jquery</strong> para instalar</li>
 </ul>
 
 ## Gif do Projeto Pronto
