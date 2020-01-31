@@ -4,6 +4,7 @@ Este projeto mostra a lista de filmes e séries do site SmartMovies
 Clone o projeto https://github.com/Wesley-Alves/smartmovies-backend para instalar a API.<br/>
 Use o comando npm install para instalar as dependências.<br/>
 Use o comando npm start para iniciar o servidor.<br/>
+O backend estará disponível na porta 3000.
 ## Como Instalar o Projeto SmartMovies
 Faça o clone do projeto.<br/>
 Use o comando npm install para instar as dependências do projeto.<br/>
