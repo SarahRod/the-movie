@@ -18,6 +18,8 @@ Este projeto mostra a lista de filmes e séries do site SmartMovies
 </ul>
 
 
+![Gif das telas prontas](https://github.com/SarahRod/the-movie/blob/master/gif-projeto.gif)
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
