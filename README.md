@@ -17,6 +17,7 @@ Este projeto mostra a lista de filmes e séries do site SmartMovies
   <li>Se der erro no $ jquery use o comando <strong>npm install jquery</strong> para instalar</li>
 </ul>
 
+## Gif do Projeto Pronto
 
 ![Gif das telas prontas](https://github.com/SarahRod/the-movie/blob/master/gif-projeto.gif)
 
