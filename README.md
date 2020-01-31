@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto mostra a lista de filmes e séries do site SmartMovies
 
 ## Available Scripts
 
