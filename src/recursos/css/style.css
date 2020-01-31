@@ -1,0 +1,193 @@
+
+
+/*estilização global*/
+h1{font-size: 3em;}
+
+h4{font-size: 1.6em;}
+
+h6{font-size: 1.4em;}
+
+h3{font-size: 2.2em;}
+
+p{font-size: 1.1em;}
+
+
+.vermelho-texto{color: #f50000;}
+.vermelho {background-color:  #f50000;}
+.preto{background-color: rgba(0, 0, 0, 0.8);;}
+.preto-2{background-color: #000000}
+.cinza{color: #424242;}
+
+
+.fonte-pequena{
+  font-size: 15px;
+}
+
+.fonte-maior{
+  font-size: 70px;
+}
+
+.fonte-media{
+  font-size: 30px;
+}
+
+.z-index{
+  position: absolute;
+  z-index: 9999;
+}
+
+.pointer{cursor: pointer;}
+
+/*background do site*/
+.background-header-home{
+  background-image: url("../imagens/vingadores2.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 550px;
+}
+
+/*header do site*/
+.efeito-entrada{
+  animation-name: fade;
+  animation-duration: 4s;
+}
+
+
+
+/*Caixa para o link - mudar serie e filme*/
+.caixa-filme-serie{
+  width: 100%;
+  background-color: #000000;
+  color: #ffffff;
+  height: 60px;
+  font-size: 20px;
+  padding-top: 20px;
+  border-top: 1px solid;
+}
+
+
+/*Formatação do botao*/
+.btn-vermelho{
+  width: 200px;
+  height: 50px;
+  background-color:#f50000 ;
+  border: 2px solid #8f0202 ;
+}
+
+.btn-vermelho:hover{
+  background-color:#000000;
+  color: #f50000;
+  transition: 1s;
+  border: 2px solid #f50000 ;
+}
+
+
+.btn-vermelho-2{
+  width: 100%;
+  height: 50px;
+  background-color:#000000 ;
+  border: 2px solid #8f0202 ;
+  }
+
+/*entrada do site - header*/
+@keyframes fade{
+  from{
+    opacity: 0;
+    transform: scale(0.9);
+  }to{
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.card-filme{
+  box-shadow: 0px 6px 12px -2px rgba(0,0,0,0.75);
+  min-height: 500px;
+}
+
+
+/*Caixa das informações detalhadas dos filmes e series*/
+
+.caixa-informacao-item{
+  width: 100%;
+  min-height: 700px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.caixa-transparente{
+  background-color: rgba(0, 0, 0, 0.8);
+  width: 100%;
+  min-height: 700px;
+  
+  padding-top: 150px;
+}
+
+.imagem-poster{
+  box-shadow: 0px 6px 12px -2px rgba(0,0,0,0.75);
+  border-radius: 10px;
+}
+
+.caixa-voltar{
+  width: 100%;
+  height: 50px;
+  background-color:#000000;
+  margin-top: 86px;
+  padding-top: 5px;
+  padding-left: 25px;
+  position: fixed;
+  z-index: 9999;
+  border-top:1px  solid #ffffff;
+}
+
+/*Slider para os Autores dos filmes e das series*/
+.box{
+  width: 100%;
+  height: 250px;
+  margin: 20px auto;
+  overflow: scroll;
+  overflow-y:hidden;
+  
+}
+.box::-webkit-scrollbar {
+    height: 10px;
+    width: 5px;
+    background: #eee;
+}
+
+.box::-webkit-scrollbar-button {
+    width: 5px;
+    height: 20px;
+    background: rgb(255, 255, 255);
+}
+
+.box::-webkit-scrollbar-corner {
+    background: rgb(177, 33, 33);
+}
+
+.box::-webkit-scrollbar-thumb {
+    background: rgb(197, 197, 197);
+}
+
+
+.tamanho-imagem{
+  width: 150px;
+  height: 150px;
+}
+
+
+.elenco-atores{
+  width: 150px;
+  float: left;
+  margin-left: 10px;
+}
+
+  
+  .dummy{
+    width:max-content;
+    height: 200px;
+  
+  }
+ 
