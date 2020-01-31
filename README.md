@@ -1,4 +1,4 @@
-Este projeto mostra a lista de filmes e séries do site SmartMovies
+Este projeto mostra a lista de filmes e séries do site SmartMovies - React.js - Bootstrap4 - Css 
 
 ## Como Instalar a API
 
