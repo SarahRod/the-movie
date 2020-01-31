@@ -8,8 +8,8 @@ O backend estará disponível na porta 3000.
 ## Como Instalar o Projeto SmartMovies
 Faça o clone do projeto.<br/>
 Use o comando npm install para instar as dependências do projeto.<br/>
-Use o comando npm start para iniciar o projeto, como a api vai estar rodando na porta 3000, então esse projeto deverá ser rodado na porta 3001.
-Se der erro no $ query use o comando npm install jquery para instalar
+Use o comando npm start para iniciar o projeto, como a api vai estar rodando na porta 3000, então esse projeto deverá ser rodado na porta 3001.</br>
+Se der erro no $ jquery use o comando <strong>npm install jquery</stron> para instalar
 
 ## Learn More
 
